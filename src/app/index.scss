@@ -117,7 +117,7 @@ h3.style.p{
 		display: inline-block;
 		.subHead{
 		  width: 100%;
-		  margin-bottom: 10px;
+		  margin-bottom: 4px;
 		  padding-left: 0px;
 		  letter-spacing: 15px;
 		  font-size: 30px;
@@ -138,7 +138,7 @@ h3.style.p{
 			}
 			span{
 				display: block;
-				margin: 6px 0px;
+				margin: 10px 0px;
 				&:last-child{
 				    margin-bottom: 0px;
 				}
@@ -205,7 +205,7 @@ h3.style.p{
 	    .row{
           max-width: 900px;
           margin: 0 auto;
-          padding:8px 50px; 
+          padding:8px 65px; 
           -webkit-column-count: 2;
           -webkit-column-gap: 10px;
           -webkit-column-fill: auto;
@@ -222,7 +222,8 @@ h3.style.p{
           -webkit-column-break-inside: avoid;
           -moz-column-break-inside: avoid;
           column-break-inside:avoid;
-          margin-bottom:20px;
+          margin-top:10px;
+          margin-bottom:35px;
         }
         .cc1{
           display: block;
@@ -310,8 +311,8 @@ h3.style.p{
           float:none;
         }
         h4.subHead{
-        	letter-spacing: 4px;
-        	font-size: 22px;
+        	letter-spacing: 2px;
+        	font-size: 24px;
         	font-weight: 200;
         	margin-top:15px;
         }
